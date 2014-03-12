@@ -1,0 +1,6 @@
+A rather brittle JPEG extraction program (*Gasp* using regex)
+
+- jpgext is the actual code
+- getjpg is a ready-baked shell arg parser for the module
+
+Note: This obviously does not conform to the JPEG standard because I did not even look at it. Expect strange behaviour.
